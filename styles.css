@@ -1,0 +1,35 @@
+/* Estilos para la galería */
+.gallery-item {
+    max-width: 500px; 
+    margin: 0 auto; 
+}
+
+/* Estilo para el icono de cuadrado celeste */
+.fas.fa-square {
+    color: #007bff; 
+}
+
+/* Estilos para el h4 */
+h4 {
+    margin-top: 20px;
+    margin-left: 10px;
+    display: inline; 
+}
+
+/* Estilo  para el span */
+.custom-text {
+    margin-top: 10px;
+    float: right; 
+    margin-right: 10px;
+}
+
+/* Estilo para los párrafos */
+p {
+    margin-left: 10px;
+    text-align: justify; 
+}
+
+/* Estilo  para la clase .likes */
+.likes {
+    margin-top: 10px;
+}
