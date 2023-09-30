@@ -33,3 +33,30 @@ p {
 .likes {
     margin-top: 10px;
 }
+
+/* Estilo los tabs */
+.nav-tabs .nav-link {
+    border: none; 
+    border-radius: 0; 
+    background-color: transparent; 
+    color: #000; 
+}
+
+/* Estilo para el tab activo */
+.nav-tabs .nav-item.active .nav-link {
+    background-color: transparent; 
+    color: #007bff; 
+    border: none; 
+}
+
+/* Estilo para el contenedor de las galerías */
+.container.mt-4 {
+    border: none; 
+    padding: 0; 
+    box-shadow: none; 
+}
+
+/* Estilo para eliminar el borde superior entre los tabs y las imágenes */
+.container.mt-4 .nav-tabs {
+    border-bottom: none; 
+}
